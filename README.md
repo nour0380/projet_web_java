@@ -1,2 +1,8 @@
 # projet_web_java
-our web project 
+# projet : bibliotheca 
+# membre de groupe  : 
+Dahbi Nour 
+Salma Elkhayat 
+Sara Zamzami 
+# professeur :
+Pr. khadija Tlemcani 
